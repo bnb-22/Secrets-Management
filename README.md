@@ -1,4 +1,4 @@
-# DevSecops
+# Secrets Management
 
 🔒 Secrets Management in Azure using the Secrets Store CSI Driver with Azure Vault Provider! 🔒
 
